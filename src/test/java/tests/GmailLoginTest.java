@@ -1,4 +1,5 @@
 package tests;
+// Automating gmail is a worst practice.
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
